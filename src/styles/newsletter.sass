@@ -1,0 +1,44 @@
+.newsletterJucci
+  background: #000
+  height: 440px
+  display: flex
+  justify-content: center
+  align-items: center
+  .newsletterCenter
+    width: 45%
+    margin: 0px auto
+    .newsletterForm
+      text-align: center
+      margin-top: 24px
+      input
+        color: white
+        &::placeholder
+          color: white
+          opacity: 1
+        &:-ms-input-placeholder
+          color: white
+        &::-ms-input-placeholder
+          color: white
+      .MuiInput-underline:after
+        transform: scaleX(1)
+        border-bottom: 2px solid #03FFA5
+        bottom: -8px
+      button
+        color: #03FFA5
+        margin: 0px
+    .newsletterTitle
+      color: white
+      h4
+        color: white
+        font-family: Barlow
+        font-style: normal
+        font-weight: bold
+        font-size: 32px
+        line-height: 40px
+        text-align: center
+        text-transform: uppercase
+        &:before
+          content: " // "
+          position: absolute
+          transform: translate(-48px, 0px)
+          color: #03FFA5

@@ -3,7 +3,6 @@ module.exports = {
     title: "jussi",
   },
   plugins: [
-    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-plugin-google-analytics",
