@@ -34,7 +34,6 @@ export default function Bar() {
                             to="/"
                             underline="none"
                         >
-                            {/* {process.env.REACT_APP_TITLE} */}
                             <img src={'https://ik.imagekit.io/abkvohwfl/JussiVector_9vn4O4XP6.png'} alt="Jussi Logo" />
                         </Link>
                     </Typography>
