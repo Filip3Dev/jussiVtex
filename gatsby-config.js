@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "jussi",
+    title: "Jüssi | The Business Agency",
+    description: "Somos uma agência digital que faz parte do grupo WPP, especializada em potencializar resultados de negócio para marcas globais e empresas inovadoras por meio de uma abordagem consultiva. Temos performance em nosso DNA e focamos em desempenho e excelência na execução de cada projeto."
   },
   plugins: [
     "gatsby-plugin-sass",
