@@ -4,36 +4,32 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Teste feito com o Gatsby
 </h1>
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Start a Gatsby project.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    Para iniciar, comece com um:
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    # instalar as dependencia do projeto
+    npm install
     ```
 
 2.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    Rodar o projeto.
 
     ```shell
-    cd my-gatsby-site/
     npm run develop
     ```
 
-3.  **Open the code and start customizing!**
+3.  **Your site is now running at http://localhost:8000!**
 
-    Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
+4.  **Learn more about Gatsby**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
